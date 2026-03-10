@@ -14,17 +14,7 @@
 * **🏸 业余爱好**：羽毛球选手、摄影爱好者，坚信代码和照片都是在记录世界。
 
 ---
-### 📊 开发者看板 (Dashboard)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=UrgencyWu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrgencyWu&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=UrgencyWu&theme=react-dark&bg_color=1a1b27&hide_border=true" />
-</p>
----
 
 ### 🛠️ 技能树 (Tech Stack)
 
