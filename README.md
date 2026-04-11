@@ -4,6 +4,8 @@
 
 ### 🎓 关于我 (About Me)
 
+- **🌐 个人网站**: [UrgencyWu.github.io](https://UrgencyWu.github.io)
+
 - **🏫 教育背景**：
   - 哈尔滨工业大学 2025～now 软件工程硕士在读，focus on LLM application on SysML
   - 中国农业大学 2024～2025 数据科学与大数据技术 第二学士
@@ -28,5 +30,6 @@
 
 ### 📬 联系我 (Contact Me)
 
+- **网站**: [UrgencyWu.github.io](https://UrgencyWu.github.io)
 - **Email**: [shaw-wu@qq.com](mailto:shaw-wu@qq.com)
 - **GitHub**: [@UrgencyWu](https://github.com/UrgencyWu)
