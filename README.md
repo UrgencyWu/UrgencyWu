@@ -4,7 +4,7 @@
 
 ### 🎓 关于我 (About Me)
 
-- **🌐 个人网站**: [[UrgencyWu.github.io](https://UrgencyWu.github.io)](https://urgencywu.github.io/UrgencyWu/)
+- **🌐 个人网站**: (https://UrgencyWu.github.io)](https://urgencywu.github.io/UrgencyWu/)
 
 - **🏫 教育背景**：
   - 哈尔滨工业大学 2025～now 软件工程硕士在读，focus on LLM application on SysML
