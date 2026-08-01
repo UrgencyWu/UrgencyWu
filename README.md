@@ -10,7 +10,7 @@
   - 哈尔滨工业大学 2025～now 软件工程硕士在读，校内研究方向：大模型在 SysML 中的应用（LLM + SysML）
   - 中国农业大学 2024～2025 数据科学与大数据技术 第二学士
   - 东华大学 2020～2024 旅游管理 学士
-  - 期间实习：Daxue Consulting（咨询项目数据洞察）、Volvo（沃尔沃，供应链数据分析）
+  - 期间实习：Daxue Consulting（咨询项目的数据洞察）、Volvo（沃尔沃，供应链数据分析）
 
 - **💡 职业方向**：大模型的后训练（微调/蒸馏/量化/模型优化）与 Agent 算法开发（Agent 框架与交互策略）
 
@@ -36,6 +36,37 @@
 
 ### 📬 联系我 (Contact Me)
 
-- **网站**: [UrgencyWu.github.io](https://UrgencyWu.github.io)
-- **Email**: [shaw-wu@qq.com](mailto:shaw-wu@qq.com)
+- **网站**: [UrgencyWu.github.io](https://urgencywu.github.io)
+- **Email（已隐写）**: shaw-wu [at] qq.com  （网站主页提供“显示邮箱 / 复制邮箱”交互按钮）
 - **GitHub**: [@UrgencyWu](https://github.com/UrgencyWu)
+
+---
+
+## English (Brief)
+
+### 🎓 About Me
+
+- Masters (Software Engineering) student at Harbin Institute of Technology (2025–now). Research focus: application of large language models (LLM) in SysML.
+- Second Bachelor's in Data Science & Big Data Technology, China Agricultural University (2024–2025).
+- Bachelor's in Tourism Management, Donghua University (2020–2024).
+- Internships: Daxue Consulting (data insights for consulting projects), Volvo (supply chain data analysis).
+
+### 💡 Career Focus
+
+Post-training for large models (fine-tuning / distillation / quantization / optimization) and Agent algorithm & system development.
+
+### 🛠️ Tech Stack
+
+Focused on the stack needed for "post-training + Agent development":
+
+- Model development & training: Python, PyTorch, Hugging Face Transformers, PEFT / LoRA, DeepSpeed, Accelerate
+- Model optimization & inference: quantization (4-bit/8-bit), bitsandbytes, ONNX, xFormers, model distillation
+- Distributed & acceleration: CUDA, NCCL, multi-GPU training, ZeRO, Ray / TorchElastic
+- Agents & RL: LangChain, RLHF / TRL, PPO / SFT, agent interaction & strategy engineering
+- Data & experiment management: Pandas, Apache Spark, Datasets (Hugging Face), DVC, MLflow, Weights & Biases
+- Deployment & engineering: FastAPI, Gradio, Streamlit, Docker, Kubernetes, CI/CD
+- Tooling & engineering practices: Git, Linux, Shell, performance tuning & monitoring
+
+---
+
+If you want a concise English-only CV blurb or a version with skill-level tags (Proficient / Familiar / Learning), tell me which format you prefer and I will add it.
